@@ -1,0 +1,24 @@
+[
+    {
+        "id": "trigger_1",
+        "surveyUrl": "http://survey.gpii.net/ajcTrigger1.json",
+        "conditions": [
+            {
+                "type": "sessionTimer",
+                "value": 60000,
+                "sessionModulus": 2
+            }
+        ]
+    }, {
+        "id": "trigger_2",
+        "surveyUrl": "http://survey.gpii.net/ajcTrigger2.json",
+        "conditions": [
+            {
+                "type": "sessionTimer",
+                "value": 90000,
+                "sessionModulus": 3
+            }
+        ]
+    }
+]
+
