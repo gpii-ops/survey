@@ -1,0 +1,13 @@
+{
+        "url": "https://umdsurvey.umd.edu/jfe/form/SV_cAZuQKBkN96LfH7",
+        "closeOnSubmit": false,
+        "window": {
+            "width": 800,
+            "height": 600,
+            "resizable": true,
+            "title": "Morphic Survey",
+            "closable": true,
+            "minimizable": false,
+            "maximizable": false
+        }
+}
